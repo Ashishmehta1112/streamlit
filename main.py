@@ -5,7 +5,7 @@ import streamlit as st
 import pyqrcode 
 
 from PIL import Image
-import pypng
+import png
 # give a title to our app
 
 a=st.title('Welcome to QR MAKER')
