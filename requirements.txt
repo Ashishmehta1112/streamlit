@@ -3,3 +3,5 @@ streamlit==1.22.0
 pyqrcode==1.2.1
 
 pillow==9.5.0
+
+pypng==0.20220715.0
